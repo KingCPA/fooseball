@@ -1,5 +1,3 @@
-import Flags from "./flags";
-
 let footieData = [
     {
         Country: "England",
